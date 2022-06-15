@@ -23,7 +23,7 @@
 <body>
     <div class="add-user1">
 <?php require_once(ROUTE_DIR . "vue/inc/menu.html.php"); ?>
-       
+       far
        <form action="<?= WEB_ROUTE ?>" method="POST" enctype="multipart/form-data">
            <input type="hidden" name="controller" value="admin">
            <input type="hidden" name="action" value="create.question">
