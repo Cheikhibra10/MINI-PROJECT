@@ -1,0 +1,159 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo1{
+    width: 100%;
+}
+body {
+    background-color: #4BCDD6;
+    font-size: x-large;
+    font-family: 'Poppin' sans-serif;
+}
+
+.logo {
+    width: 100px;
+    height: 50px;
+    display: flex;
+    margin-left: -500px;
+    /* float: left; */
+}
+.titre{
+    margin-left: 380px;
+    justify-content: center;
+}
+.navbar {
+    background-color: black;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+.btn{
+    height: 40px;
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 85%;
+    margin-top: -50px;
+    font-size: 1.2rem;
+    background-color: black;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+
+}
+.btn a:hover{
+    background-color: white;
+    color: black;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ .imge{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 60%;
+    margin-top: -1350px;
+}
+.add-user {
+    margin: 7% 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 150px;
+    width: 60%;
+    padding: 3%;
+}
+.add-user .form {
+    background-color: black;
+    width: 70pc;
+    height: 120vh;
+    border-radius: 10px;
+    /*box-shadow: 5px 5px 2px white;8*/
+    margin-left: 10%;
+    padding-left: 6%;
+    padding-top: 8%;
+    padding-right: 8%;
+}  
+.add-user .form-input {
+    width: 68%;
+    padding: 3% 0%;
+    border: 2px solid black;
+    border-radius: 10px;
+    line-height: .8rem;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    margin-top: 2%;
+}
+.form-input::placeholder {
+    font-weight: bold;
+    padding-left: 2%;
+    margin: 5% 0%;
+    font-size: .8rem;
+    }
+
+.lab {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color:white;
+    padding-top: -6%;
+}
+.text-center{
+    text-align: center;
+   margin-top: -10%;
+   color: white;
+}
+
+.btn1{
+    background-color: white;
+    color: black;
+    padding: 3% 12%;
+    border-radius: 25px;
+    border: none;
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    margin: 3% 0;
+    margin-left: 20%;
+    
+}
+a {
+    font-size: 1.1rem; 
+    font-weight: bold; 
+    margin-top: 4%;
+    color: white;
+    text-decoration: none;
+
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+.para1{
+    text-align: center;
+    margin-left: 10%;
+    margin-top: -5px;
+    font-size: 1.1rem;
+    color: white;
+    padding-top: 3%;
+ 
+}

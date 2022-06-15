@@ -1,0 +1,212 @@
+[
+    {
+        "nom": "cheikh ibra",
+        "prenom": "mbengue",
+        "telephone": "1234",
+        "email": "cheikhibrambengue90@gmail.com",
+        "password": "444444"
+    },
+    {
+        "nom": "cheikh ibra",
+        "prenom": "mbengue",
+        "telephone": "456",
+        "email": "cheikhibrambengue90@gmail.com",
+        "password": "444444"
+    },
+    {
+        "nom": "cheikh ibra",
+        "prenom": "mbengue",
+        "telephone": "234",
+        "email": "cheikhibrambengue90@gmail.com",
+        "password": "444444"
+    },
+    {
+        "nom": "cheikh ibra",
+        "prenom": "mbengue",
+        "telephone": "123",
+        "email": "cheikhibrambengue90@gmail.com",
+        "password": "444444"
+    },
+    {
+        "nom": "cheikh ibra",
+        "prenom": "mbengue",
+        "telephone": "456",
+        "email": "cheikhibrambengue90@gmail.com",
+        "password": "444444"
+    },
+    {
+        "nom": "cheikh ibra",
+        "prenom": "mbengue",
+        "telephone": "456",
+        "email": "cheikhibrambengue90@gmail.com",
+        "password": "243"
+    },
+    {
+        "nom": "malick",
+        "prenom": "fall",
+        "telephone": "234",
+        "email": "malick@gmail.com",
+        "password": "234",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "moussa",
+        "prenom": "diop",
+        "telephone": "123",
+        "email": "moussa@gmail.com",
+        "password": "111",
+        "role": "ROLE_"
+    },
+    {
+        "nom": "mbengue",
+        "prenom": "cheikh",
+        "telephone": "222",
+        "email": "222",
+        "password": "111",
+        "role": "ROLE_"
+    },
+    {
+        "nom": "mbengue",
+        "prenom": "cheikh",
+        "telephone": "333",
+        "email": "cheikh@gmail.com",
+        "password": "111",
+        "role": "ROLE_"
+    },
+    {
+        "nom": "ss",
+        "prenom": "mbengue",
+        "telephone": "5677899",
+        "email": "maqqlick@gmail.com",
+        "password": "passer",
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "test",
+        "prenom": "fall",
+        "login": "test@gmail",
+        "password": "555",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "diouf",
+        "prenom": "papa",
+        "telephone": "222",
+        "email": "diouf@gmail.com",
+        "password": "333",
+        "avatar": null,
+        "role": "ROLE_JOUEUR"
+    },
+    {
+        "nom": "moussa",
+        "prenom": "diop",
+        "login": "diop@gmail.com",
+        "password": "444",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "cheikh ibra",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": null,
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "cheikh ibra",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": "Screenshot from 2022-06-13 10-09-19.png",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "cheikh ibra",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "123",
+        "avatar": "Screenshot from 2022-06-13 10-09-19.png",
+        "role": "ROLE_ADMIN"
+    },
+    {
+        "nom": "test",
+        "prenom": "mbengue",
+        "login": "diop@gmail.com",
+        "password": "234",
+        "avatar": "avatar.jpg",
+        "role": "ROLE_ADMIN"
+    }
+]       

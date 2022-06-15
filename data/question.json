@@ -1,0 +1,275 @@
+[
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est suarez?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est neymar?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "rtr23453"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "qui est messi?",
+        "point": "5",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60de2d23832a9"
+    },
+    {
+        "question": "rfdxtqSFXF?",
+        "point": "1",
+        "typrep": "checkbox",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "footballeur"
+        ],
+        "btn_submit": "",
+        "id": "60df01f456868"
+    },
+    {
+        "id": "60e2e0767d141",
+        "question": "qui est ronaldo?",
+        "point": "2",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "medecin",
+            "courreur"
+        ],
+        "btn_submit": ""
+    },
+    {
+        "id": "60e60bd33412e",
+        "question": "C'est qui Alioune Sito\u00e9 diatta?",
+        "point": "4",
+        "typrep": "checkbox",
+        "nbr_reps": "3",
+        "reponse": [
+            "une r\u00e9sistante",
+            "artiste",
+            "chanteur"
+        ],
+        "reponseCorrecte": "une r\u00e9sistante",
+        "btn_submit": ""
+    },
+    {
+        "id": "60ecaa3671f6c",
+        "question": "php ou java",
+        "point": "3",
+        "typrep": "radio",
+        "nbr_reps": "2",
+        "reponse": [
+            "on",
+            "langage",
+            "code"
+        ],
+        "reponseCorrecte": "langage",
+        "btn_submit": ""
+    },
+    {
+        "id": "60ed8984afbd1",
+        "question": "qui est sene",
+        "point": "3",
+        "typrep": "checkbox",
+        "nbr_reps": "3",
+        "reponse": [
+            "on",
+            "etudiant",
+            "eleve",
+            "joueur"
+        ],
+        "reponseCorrecte": "etudiant",
+        "btn_submit": ""
+    },
+    {
+        "id": "60ed8e566fdbd",
+        "question": "gana ou kante",
+        "point": "3",
+        "typrep": "checkbox",
+        "nbr_reps": "2",
+        "reponse": [
+            "on",
+            "gana",
+            "kante"
+        ],
+        "reponseCorrecte": "gana",
+        "btn_submit": ""
+    }
+]
